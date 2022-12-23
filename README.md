@@ -1,7 +1,7 @@
 # MVC Tech Blog
 
 ## Description
-This website Model-View-Controller (MVC) paradigm to create a blog-style website where developers can create an account, edit their information, make posts, edit posts, and comment on other user's posts.
+Model-View-Controller (MVC) paradigm to create a blog-style website where developers can create an account, edit their information, make posts, edit posts, and comment on other user's posts.
 
 ## Tools Used to Create This Project
 
@@ -13,7 +13,10 @@ This website Model-View-Controller (MVC) paradigm to create a blog-style website
 * bcrypt 
 * handlebars integration on the front-end
 * Heroku 
-  * JawsDB 
+* JawsDB 
 
 ## Usage
-The application is deployed on Heroku at 
+The application is deployed on Heroku at https://mighty-island-36283.herokuapp.com
+
+
+

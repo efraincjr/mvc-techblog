@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/efraincjr/mcv-techblog"
+    "url": "https://github.com/efraincjr/mvc-techblog"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/efraincjr/mcv-techblog"
+    "url": "https://github.com/efraincjr/mvc-techblog"
   },
-  "homepage": "https://github.com/efraincjr/mcv-techblog",
+  "homepage": "https://github.com/efraincjr/mvc-techblog",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^7.0.4",
